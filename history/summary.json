@@ -58,17 +58,19 @@
     "url": "https://share.dittrich.pro",
     "icon": "https://icons.duckduckgo.com/ip3/share.dittrich.pro.ico",
     "slug": "share",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 939,
-    "timeWeek": 630,
-    "timeMonth": 657,
-    "timeYear": 657,
-    "dailyMinutesDown": {}
+    "time": 676,
+    "timeDay": 1031,
+    "timeWeek": 692,
+    "timeMonth": 676,
+    "timeYear": 676,
+    "dailyMinutesDown": {
+      "2024-09-22": 0
+    }
   }
 ]
