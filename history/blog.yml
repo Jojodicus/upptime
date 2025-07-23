@@ -1,7 +1,7 @@
 url: https://dittrich.pro
-status: up
-code: 200
-responseTime: 98
-lastUpdated: 2025-07-22T23:22:53.624Z
+status: down
+code: 500
+responseTime: 3105
+lastUpdated: 2025-07-23T13:55:22.062Z
 startTime: 2024-09-04T12:58:51.496Z
 generator: Upptime <https://github.com/upptime/upptime>
