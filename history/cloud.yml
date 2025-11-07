@@ -1,7 +1,7 @@
 url: https://cloud.dittrich.pro
-status: up
-code: 200
-responseTime: 1034
-lastUpdated: 2025-11-06T23:19:44.008Z
+status: down
+code: 502
+responseTime: 456
+lastUpdated: 2025-11-07T04:19:27.529Z
 startTime: 2024-09-04T12:58:53.330Z
 generator: Upptime <https://github.com/upptime/upptime>
