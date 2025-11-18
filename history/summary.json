@@ -31,19 +31,19 @@
     "url": "https://jtd.tf",
     "icon": "https://icons.duckduckgo.com/ip3/jtd.tf.ico",
     "slug": "link-shorter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 540,
-    "timeDay": 441,
-    "timeWeek": 542,
-    "timeMonth": 608,
-    "timeYear": 546,
+    "timeDay": 495,
+    "timeWeek": 557,
+    "timeMonth": 611,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 64
     }
   },
   {
