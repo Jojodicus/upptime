@@ -9,8 +9,6 @@ sites:
     url: https://jtd.tf
   - name: Cloud
     url: https://cloud.dittrich.pro
-  - name: Share
-    url: https://share.dittrich.pro
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
