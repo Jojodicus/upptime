@@ -31,17 +31,17 @@
     "url": "https://jtd.tf",
     "icon": "https://icons.duckduckgo.com/ip3/jtd.tf.ico",
     "slug": "link-shorter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "99.37%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 540,
-    "timeDay": 495,
-    "timeWeek": 557,
-    "timeMonth": 611,
-    "timeYear": 547,
+    "timeDay": 466,
+    "timeWeek": 537,
+    "timeMonth": 603,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2025-11-18": 64
     }
@@ -51,12 +51,12 @@
     "url": "https://cloud.dittrich.pro",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.dittrich.pro.ico",
     "slug": "cloud",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "95.63%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "95.62%",
     "uptimeWeek": "95.71%",
     "uptimeMonth": "95.86%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.31%",
     "time": 957,
     "timeDay": 858,
     "timeWeek": 870,
@@ -161,8 +161,7 @@
       "2025-08-01": 55,
       "2025-07-31": 35,
       "2025-07-29": 35,
-      "2025-07-26": 30,
-      "2025-07-25": 33
+      "2025-07-26": 30
     }
   },
   {
@@ -170,9 +169,9 @@
     "url": "https://share.dittrich.pro",
     "icon": "https://icons.duckduckgo.com/ip3/share.dittrich.pro.ico",
     "slug": "share",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -182,6 +181,7 @@
     "timeMonth": 608,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-03-13": 24
     }
   }
