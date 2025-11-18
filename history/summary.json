@@ -11,10 +11,10 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
     "time": 299,
-    "timeDay": 399,
-    "timeWeek": 307,
-    "timeMonth": 324,
-    "timeYear": 300,
+    "timeDay": 310,
+    "timeWeek": 297,
+    "timeMonth": 321,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2025-11-17": 16,
       "2025-11-05": 25,
@@ -37,10 +37,10 @@
     "uptimeWeek": "98.85%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
-    "time": 540,
-    "timeDay": 521,
-    "timeWeek": 561,
-    "timeMonth": 610,
+    "time": 541,
+    "timeDay": 529,
+    "timeWeek": 563,
+    "timeMonth": 609,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2025-11-18": 116
@@ -57,9 +57,9 @@
     "uptimeWeek": "95.20%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "99.30%",
-    "time": 958,
-    "timeDay": 951,
-    "timeWeek": 886,
+    "time": 957,
+    "timeDay": 919,
+    "timeWeek": 882,
     "timeMonth": 866,
     "timeYear": 944,
     "dailyMinutesDown": {
@@ -162,27 +162,6 @@
       "2025-07-31": 35,
       "2025-07-29": 35,
       "2025-07-26": 30
-    }
-  },
-  {
-    "name": "Share",
-    "url": "https://share.dittrich.pro",
-    "icon": "https://icons.duckduckgo.com/ip3/share.dittrich.pro.ico",
-    "slug": "share",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.99%",
-    "time": 606,
-    "timeDay": 795,
-    "timeWeek": 615,
-    "timeMonth": 608,
-    "timeYear": 594,
-    "dailyMinutesDown": {
-      "2025-11-18": 52,
-      "2025-03-13": 24
     }
   }
 ]
