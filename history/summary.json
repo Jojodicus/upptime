@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dittrich.pro.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.94%",
+    "uptimeDay": "89.86%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.91%",
     "time": 389,
     "timeDay": 60,
     "timeWeek": 467,
@@ -25,7 +25,7 @@
       "2026-05-19": 66,
       "2026-06-03": 101,
       "2026-06-02": 32,
-      "2026-07-27": 0
+      "2026-07-27": 146
     }
   },
   {
