@@ -54,19 +54,18 @@
     "url": "https://cloud.dittrich.pro",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.dittrich.pro.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 970,
-    "timeDay": 1153,
-    "timeWeek": 1188,
-    "timeMonth": 1208,
-    "timeYear": 956,
+    "timeDay": 800,
+    "timeWeek": 1095,
+    "timeMonth": 1188,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2025-09-16": 17,
       "2025-09-17": 18,
       "2025-09-19": 29,
       "2025-09-20": 36,
@@ -164,7 +163,8 @@
       "2026-07-15": 138,
       "2026-07-25": 137,
       "2026-08-06": 156,
-      "2026-08-08": 55
+      "2026-08-08": 55,
+      "2026-08-16": 0
     }
   },
   {
