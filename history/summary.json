@@ -55,15 +55,15 @@
     "slug": "cloud",
     "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.79%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "97.75%",
     "uptimeYear": "98.72%",
     "time": 960,
     "timeDay": 722,
     "timeWeek": 1023,
-    "timeMonth": 1047,
-    "timeYear": 979,
+    "timeMonth": 1060,
+    "timeYear": 980,
     "dailyMinutesDown": {
       "2025-09-30": 15,
       "2025-10-01": 16,
@@ -163,7 +163,7 @@
       "2026-08-27": 299,
       "2026-08-28": 161,
       "2026-08-29": 203,
-      "2026-09-17": 0
+      "2026-09-17": 35
     }
   },
   {
